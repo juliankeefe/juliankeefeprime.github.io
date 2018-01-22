@@ -17,7 +17,7 @@
         dd { width: 600px; float: right; }
         dd.clear { float: none; margin: 0; height: 15px; }
 
-        <style>
+       
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
@@ -38,7 +38,7 @@ div.desc {
     padding: 15px;
     text-align: center;
 }
-</style>
+
      </style>
 
 
